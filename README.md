@@ -1,1 +1,1 @@
-# Food-Delivery-Website
+This food delivery website have couple of smooth functionalities which is made up of using the frameworks or google development features, the website efficiently works with no lacking and have lots of sections.
